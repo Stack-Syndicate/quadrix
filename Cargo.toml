@@ -1,0 +1,10 @@
+[package]
+authors = ["Glenn Wallace glennw-coding@proton.me"]
+description = "A gpu managing backend thing for the not-as-insane."
+name = "quadrix"
+version = "0.0.1"
+edition = "2024"
+license-file = "LICENSE"
+repository = "https://github.com/Stack-Syndicate/quadrix"
+
+[dependencies]
